@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AppConsolidacion</string>
+    <string name="nombre_usuario">NombreUsuario</string>
+    <string name="button">Button</string>
+    <string name="password">password</string>
+    <string name="o_si_no_estas_registrado">O si no estas registrado</string>
+     <string name="log_in">LOG IN</string>
+    <string name="register">REGISTER</string>
+    <string name="bienvenido">BIENVENIDO</string>
+    <string name="usuario_dominio_ab">usuario@dominio.ab</string>
+    <string name="registrate">REGISTRATE</string>
+    <string name="todo">TODO</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="username">Username</string>
+</resources>
